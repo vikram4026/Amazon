@@ -6,6 +6,10 @@ public class AmazonLoginPage {
 
 		System.out.println("Paswword work finish");
 	}
+	private void arunWork() {
+
+		System.out.println("Email ");
+	}
 	
 	
 	public static void main(String[] args) {
